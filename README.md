@@ -7,5 +7,4 @@ This repository serves as a technical showcase for the Identity-Based Access Pro
 The project solves the complexities of manual user management by automating onboarding logic, enforcing strict access validation, and maintaining immutable audit logs—ensuring seamless integration with internal enterprise systems using modern security standards.
 
 ⚠️ Proprietary Notice
-[!IMPORTANT]
-View-Only Access: This repository is for showcase purposes only. All rights are reserved. Unauthorized copying, modification, or distribution of the logic and source code contained herein is strictly prohibited.
+Due to an NDA, the full project details, source code, architecture, and client-specific implementation cannot be publicly shared. This entry is included only as a general description of the type of solution developed for a client, confirming that the project existed while keeping all confidential information protected.
